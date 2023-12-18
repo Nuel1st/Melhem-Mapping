@@ -72,7 +72,6 @@ var config = {
             hidden: false,
             title: 'Delta State',
             image: 'src/images/asaba-1.png',
-            // image: 'src/images/road2.png',
             description: 'Construction of Joseph Ebolo Road at Asaba, Delta State',
             location: {
                 center: [6.71742, 6.19109],
@@ -109,6 +108,38 @@ var config = {
             location: {
                 center: [6.71742, 6.19109],
                 zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+
+        {
+            id: 'slug-style-id',
+            alignment: 'left',
+            hidden: false,
+            title: 'Anambra',
+            image: 'src/images/Umunya Road.png',
+            // image: 'src/images/road2.png',
+            description: 'Construction of Awkuzu – Umunya Road (6.614km) in Oyi LGA, Anambra State (On-going)',
+            location: {
+                center: [6.98634, 6.26218],
+                zoom: 8.72,
                 pitch: 0,
                 bearing: 0
             },
