@@ -280,34 +280,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-
-        {
-            id: 'second-identifier',
-            alignment: 'right',
-            hidden: false,
-            title: 'Edo State',
-            image: 'src/images/Okpe.png',
-            description: '4 cells box culvert 4m x 4m at Okpe, Edo State.',
-            location: {
-                center: [7.48562, 9.06957],
-                zoom: 9.33,
-                pitch: 0,
-                bearing: 0,
-                // flyTo additional controls-
-                // These options control the flight curve, making it move
-                // slowly and zoom out almost completely before starting
-                // to pan.
-                //speed: 2, // make the flying slow
-                //curve: 1, // change the speed at which it zooms out
-            },
-            
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        
         {
             id: 'second-identifier',
             alignment: 'right',
