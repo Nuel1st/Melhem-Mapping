@@ -19,10 +19,10 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Anambra',
-            image: 'src/images/asaba.png',
+            title: 'Welcome to Lebtech',
+            image: 'src/images/road3.png',
             // image: 'src/images/road2.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: '',
             location: {
                 center: [6.98634, 6.26218],
                 zoom: 8.72,
@@ -48,13 +48,33 @@ var config = {
         },
 
         {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Asaba',
+            image: 'scr/images/about-4.png', 
+            description: 'Construction of Okpanam Ibuzu Road, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
             title: 'Anambra',
             image: 'src/images/road2.png',
             // image: 'src/images/road2.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Construction of Joseph Ebolo Road at Asaba, Delta State.',
             location: {
                 center: [6.98634, 6.26218],
                 zoom: 8.72,
@@ -110,8 +130,8 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Asaba',
-            image: 'scr/images/road1.png', 
-            description: 'Copy these sections to add to your story.',
+            image: 'scr/images/about-4.png', 
+            description: 'Construction of Okpanam Ibuzu Road, Delta State',
             location: {
                 center: [6.71742, 6.19109],
                 zoom: 10.78,
