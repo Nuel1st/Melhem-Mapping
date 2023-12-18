@@ -280,6 +280,26 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+
+        {
+            id: 'third-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Okpe.png', 
+            description: '4 cells box culvert 4m x 4m at Okpe, Edo State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
         {
             id: 'second-identifier',
             alignment: 'right',
