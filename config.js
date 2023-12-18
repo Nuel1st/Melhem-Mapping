@@ -19,7 +19,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Anambra',
+            title: 'Welcome to Lebtech',
             image: 'src/images/road1.png',
             // image: 'src/images/road2.png',
             description: '.',
@@ -51,7 +51,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Asaba',
-            image: 'scr/images/about-4.png', 
+            image: 'scr/images/about-4.jpg', 
             description: 'Construction of Okpanam Ibuzu Road, Delta State',
             location: {
                 center: [6.71742, 6.19109],
