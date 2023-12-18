@@ -286,7 +286,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Edo State',
-            image: 'src/images/Okpe.png',
+            image: 'src/images/road3.png',
             description: '4 cells box culvert 4m x 4m at Okpe, Edo State.',
             location: {
                 center: [7.48562, 9.06957],
@@ -307,7 +307,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        
         {
             id: 'second-identifier',
             alignment: 'right',
