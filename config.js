@@ -46,6 +46,25 @@ var config = {
                 // }
             ]
         },
+        {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Asaba',
+            image: 'scr/images/about-4.png', 
+            description: 'Construction of Okpanam Ibuzu Road, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
 
         {
             id: 'slug-style-id',
