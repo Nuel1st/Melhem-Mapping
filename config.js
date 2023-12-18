@@ -11,7 +11,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Construction',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
+    subtitle: 'Road construction is an art of connectivity, linking communities and fostering progress.',
     byline: 'By Melhem',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
