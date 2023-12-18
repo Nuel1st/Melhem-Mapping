@@ -41,7 +41,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Asaba',
-            image: 'scr/images/about-4.png', 
+            image: 'scr/images/about-4.jpg', 
             description: 'Construction of Okpanam Ibuzu Road, Delta State',
             location: {
                 center: [6.71742, 6.19109],
