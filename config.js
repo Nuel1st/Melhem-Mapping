@@ -67,7 +67,7 @@ var config = {
         },
 
         {
-            id: 'slug-style-id',
+            id: 'third-identifier',
             alignment: 'left',
             hidden: false,
             title: 'Delta State',
@@ -98,7 +98,7 @@ var config = {
         },
 
         {
-            id: 'slug-style-id',
+            id: 'third-identifier',
             alignment: 'right',
             hidden: false,
             title: 'Delta State',
@@ -168,6 +168,26 @@ var config = {
             title: 'Asaba',
             image: 'src/images/Okpanam.png', 
             description: 'Drainage / Storm Water Control Works at Okpanam, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'third-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Okotomi.png', 
+            description: 'Construction of Road at Okotomi, Delta State',
             location: {
                 center: [6.71742, 6.19109],
                 zoom: 10.78,
