@@ -11,7 +11,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Lebtech Construction',
-    subtitle: 'Road construction is the art of connectivity, linking communities and fostering progress.',
+    subtitle: 'Road construction is the art of connectivity, linking communities and fostering progress...',
     byline: 'By Melhem',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
