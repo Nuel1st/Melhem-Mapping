@@ -99,6 +99,38 @@ var config = {
         },
 
         {
+            id: 'slug-style-id',
+            alignment: 'right',
+            hidden: false,
+            title: 'Delta State',
+            image: 'src/images/Ebolo-Road.png',
+            // image: 'src/images/road2.png',
+            description: 'Construction of Joseph Ebolo Road at Asaba, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+
+        {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
