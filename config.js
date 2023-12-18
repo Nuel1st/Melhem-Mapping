@@ -19,10 +19,10 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Welcome to Lebtech',
+            title: 'Lebtech',
             image: 'src/images/road1.png',
             // image: 'src/images/road2.png',
-            description: '.',
+            description: 'Welcome to Lebtech',
             location: {
                 center: [6.98634, 6.26218],
                 zoom: 8.72,
