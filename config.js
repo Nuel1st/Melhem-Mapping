@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Welcome to Lebtech',
-            image: 'src/images/road3.png',
+            image: 'src/images/road2.png',
             // image: 'src/images/road2.png',
             description: '',
             location: {
