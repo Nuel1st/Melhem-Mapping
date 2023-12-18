@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'pk.eyJ1IjoibnVlbDEiLCJhIjoiY2xwaHNqdmlxMDlzbjJqcDZoNzFkdnBldiJ9.0F2opfXroVWEcsusGk1k0A',
+    accessToken: 'pk.eyJ1IjoibnVlbDEiLCJhIjoiY2xwZnloaGNhMG9uNjJqcGI1dW1yc2M4MyJ9.3hK7G5FYYwLBWNGOYCx1gw',
     showMarkers: true,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -307,6 +307,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        
         {
             id: 'second-identifier',
             alignment: 'right',
