@@ -8,7 +8,7 @@ var config = {
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
     inset: true,
     theme: 'dark',
-    use3dTerrain: false, //set true for enabling 3D maps.
+    use3dTerrain: true, //set true for enabling 3D maps.
     auto: false,
     title: 'Lebtech Construction',
     subtitle: 'Road construction is the art of connectivity, linking communities and fostering progress...',
