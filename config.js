@@ -84,7 +84,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Abuja',
-            image: './images/road3.png',
+            image: 'src/images/road3.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [7.48562, 9.06957],
@@ -110,7 +110,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Asaba',
-            image: './images/road1.png', 
+            image: 'scr/images/road1.png', 
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [6.71742, 6.19109],
