@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Anambra',
-            image: 'src/images/road3.png',
+            image: 'src/images/road1.png',
             // image: 'src/images/road2.png',
             description: '.',
             location: {
@@ -48,7 +48,7 @@ var config = {
         },
         {
             id: 'third-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Asaba',
             image: 'scr/images/about-4.png', 
