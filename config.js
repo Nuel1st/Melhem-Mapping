@@ -24,32 +24,21 @@ var config = {
             // image: 'src/images/road2.png',
             description: '',
             location: {
-                center: [6.98634, 6.26218],
-                zoom: 8.72,
+                center: [0],
+                zoom: 0,
                 pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
             callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
+            onChapterEnter: [],
+            onChapterExit: []
         },
 
         {
             id: 'third-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Asaba',
             image: 'scr/images/about-4.png', 
