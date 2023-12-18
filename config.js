@@ -183,7 +183,7 @@ var config = {
 
         {
             id: 'third-identifier',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Asaba',
             image: 'src/images/Okotomi.png', 
@@ -200,7 +200,86 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        
+        {
+            id: 'third-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Okotomi-1.png', 
+            description: 'Construction of Road at Okotomi, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
 
+        {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Okotomi-2.png', 
+            description: 'Construction of Road at Okotomi, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'third-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Ebolo-1.png', 
+            description: 'Construction of Joseph Ebolo Road in Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Obiaruku Bridge.png', 
+            description: 'Construction of Joseph Ebolo Road in Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
         {
             id: 'second-identifier',
             alignment: 'right',
