@@ -285,12 +285,12 @@ var config = {
             id: 'third-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Asaba',
+            title: 'Edo',
             image: 'src/images/Okpe.png', 
             description: '4 cells box culvert 4m x 4m at Okpe, Edo State',
             location: {
-                center: [6.71742, 6.19109],
-                zoom: 10.78,
+                center: [5.62141, 6.38299],
+                zoom: 7.94,
                 pitch: 0,
                 bearing: 0
             },
@@ -331,7 +331,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Asaba',
-            image: 'scr/images/about-4.png', 
+            image: 'src/images/about-4.png', 
             description: 'Construction of Okpanam Ibuzu Road, Delta State',
             location: {
                 center: [6.71742, 6.19109],
@@ -353,7 +353,7 @@ var config = {
             image: 'storytelling-main/path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [6.00056, 10.29786],
+                center: [8.13843, 9.96311],
                 zoom: 4.85,
                 pitch: 0,
                 bearing: 0
