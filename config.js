@@ -411,7 +411,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Nigeria',
-            image: 'src/images/logo.png',
+            image: 'src/images/logo.jpg',
             description: 'Explore the Art of Construction, Crafted with Precision and Passion.',
             location: {
                 center: [8.13843, 9.96311],
