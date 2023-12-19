@@ -413,7 +413,7 @@ var config = {
             hidden: false,
             title: 'Nigeria',
             image: 'src/images/logo.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'Explore the Art of Construction, Crafted with Precision and Passion.',
             location: {
                 center: [8.13843, 9.96311],
                 zoom: 4.85,
