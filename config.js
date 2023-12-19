@@ -407,11 +407,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'fourth-chapter',
+            id: 'fifth-chapter',
             alignment: 'fully',
             hidden: false,
             title: 'Nigeria',
-            image: 'src/images/road1.jpg',
+            image: 'src/images/road1.png',
             description: 'Explore the Art of Construction, Crafted with Precision and Passion.',
             location: {
                 center: [8.13843, 9.96311],
