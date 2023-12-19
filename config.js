@@ -16,16 +16,15 @@ var config = {
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: 'fourth-chapter',
             alignment: 'left',
             hidden: false,
             title: 'Lebtech',
             image: 'src/images/road1.png',
-            // image: 'src/images/road2.png',
             description: 'Welcome to Lebtech',
             location: {
-                center: [6.98634, 6.26218],
-                zoom: 8.72,
+                center: [7.44939, 9.08543],
+                zoom: 12.74,
                 pitch: 0,
                 bearing: 0
             },
