@@ -387,7 +387,7 @@ var config = {
             hidden: false,
             title: 'Abuja',
             image: 'src/images/road3.png',
-            description: 'Copy these sections to add to your story.',
+            description: '',
             location: {
                 center: [7.48562, 9.06957],
                 zoom: 9.33,
@@ -412,7 +412,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Nigeria',
-            image: 'storytelling-main/path/to/image/source.png',
+            image: 'src/images/logo.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [8.13843, 9.96311],
