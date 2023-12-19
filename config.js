@@ -353,8 +353,8 @@ var config = {
             image: 'storytelling-main/path/to/image/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [9.20219, 15.50489],
-                zoom: 3.97,
+                center: [6.00056, 10.29786],
+                zoom: 4.85,
                 pitch: 0,
                 bearing: 0
             },
