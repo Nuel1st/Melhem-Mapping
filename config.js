@@ -282,7 +282,7 @@ var config = {
         },
 
         {
-            id: 'third-identifier',
+            id: 'first-identifier',
             alignment: 'right',
             hidden: false,
             title: 'Edo',
