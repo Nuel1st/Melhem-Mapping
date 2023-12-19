@@ -340,6 +340,47 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        
+        {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Ogwashi-2.png', 
+            description: 'Construction of Road at Ogwashi Uku, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'third-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Asaba',
+            image: 'src/images/Ogwashi-3.png', 
+            description: 'Construction of Agidiehi Road at Ogwashi Uku, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
         {
             id: 'second-identifier',
             alignment: 'right',
@@ -360,25 +401,6 @@ var config = {
                 //curve: 1, // change the speed at which it zooms out
             },
             
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'third-identifier',
-            alignment: 'left',
-            hidden: false,
-            title: 'Asaba',
-            image: 'src/images/about-4.png', 
-            description: 'Construction of Okpanam Ibuzu Road, Delta State',
-            location: {
-                center: [6.71742, 6.19109],
-                zoom: 10.78,
-                pitch: 0,
-                bearing: 0
-            },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
             callback: '',
