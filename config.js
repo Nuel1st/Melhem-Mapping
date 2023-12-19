@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Lebtech',
-            image: 'src/images/road1.png',
+            image: 'src/images/favicon.ico',
             description: 'Welcome to Lebtech',
             location: {
                 center: [7.44939, 9.08543],
@@ -411,7 +411,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Nigeria',
-            image: 'src/images/logo.jpg',
+            image: 'src/images/road1.jpg',
             description: 'Explore the Art of Construction, Crafted with Precision and Passion.',
             location: {
                 center: [8.13843, 9.96311],
