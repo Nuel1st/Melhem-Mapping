@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Lebtech',
-            image: 'src/images/favicon.ico',
+            image: 'src/images/logo-1.png',
             description: 'Welcome to Lebtech',
             location: {
                 center: [7.44939, 9.08543],
