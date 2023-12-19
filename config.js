@@ -383,7 +383,7 @@ var config = {
 
         {
             id: 'second-identifier',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Abuja',
             image: 'src/images/road3.png',
