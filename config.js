@@ -300,6 +300,26 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+
+        {
+            id: 'third-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Delta State',
+            image: 'src/images/Ogwashi.png', 
+            description: 'Construction of Road at Ogwashi Uku, Delta State',
+            location: {
+                center: [6.71742, 6.19109],
+                zoom: 10.78,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
         {
             id: 'second-identifier',
             alignment: 'right',
